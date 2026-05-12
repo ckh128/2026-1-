@@ -1,4 +1,4 @@
-<img width="737" height="76" alt="image" src="https://github.com/user-attachments/assets/df17dc9c-6d50-42a9-adaa-6c270e6f82de" /># 2026-1-사물인터넷과 공학설계
+# 2026-1-사물인터넷과 공학설계
 사물인터넷과 공학설계 캡스톤 프로젝트 기록합니다~!
 
 ## 프로젝트 주제
